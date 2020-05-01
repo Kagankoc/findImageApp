@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/findImageApp/static/css/main.f57891b5.chunk.css",
+    "main.js": "/findImageApp/static/js/main.b2e6a325.chunk.js",
+    "main.js.map": "/findImageApp/static/js/main.b2e6a325.chunk.js.map",
+    "runtime-main.js": "/findImageApp/static/js/runtime-main.724c67ba.js",
+    "runtime-main.js.map": "/findImageApp/static/js/runtime-main.724c67ba.js.map",
+    "static/js/2.46f63332.chunk.js": "/findImageApp/static/js/2.46f63332.chunk.js",
+    "static/js/2.46f63332.chunk.js.map": "/findImageApp/static/js/2.46f63332.chunk.js.map",
+    "index.html": "/findImageApp/index.html",
+    "precache-manifest.ec50bc978cd89f540ccf5ab7213b6ea9.js": "/findImageApp/precache-manifest.ec50bc978cd89f540ccf5ab7213b6ea9.js",
+    "service-worker.js": "/findImageApp/service-worker.js",
+    "static/css/main.f57891b5.chunk.css.map": "/findImageApp/static/css/main.f57891b5.chunk.css.map",
+    "static/js/2.46f63332.chunk.js.LICENSE.txt": "/findImageApp/static/js/2.46f63332.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.724c67ba.js",
+    "static/js/2.46f63332.chunk.js",
+    "static/css/main.f57891b5.chunk.css",
+    "static/js/main.b2e6a325.chunk.js"
+  ]
+}
